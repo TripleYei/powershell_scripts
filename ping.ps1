@@ -1,0 +1,4 @@
+﻿
+param($dominio)
+ping $dominio;
+
